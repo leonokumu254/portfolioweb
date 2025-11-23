@@ -8,7 +8,7 @@ const App = () => {
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
 
   
-const profileImage = "./profile.JPG";
+const profileImage = "./public/profile.JPG";
 
   return (
     <div className="min-h-screen text-dark font-montserrat overflow-x-hidden">
